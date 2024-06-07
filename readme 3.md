@@ -45,4 +45,3 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 
 * [ ] Accept user inputs for the functions
 * [ ] Create a GUI/Webpage
-* [ ]
