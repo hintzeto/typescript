@@ -18,8 +18,6 @@ Steps to build and/or run the software:
 Instructions for using the software:
 
 1. Follow the steps in the previous section to run the code.
-2.
-3.
 
 ## Development Environment 
 
