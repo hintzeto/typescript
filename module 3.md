@@ -85,7 +85,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 | 6/5/24   |  11:30   |  IM    | Researching software requirements          |   2:31      |
 | 6/5/24   |  6:21    |  IM    | Pivot away from initial project and restart|   2:14      |
 | 6/6/24   |  8:43    |  IM    | Making library management system           |   1:52      |
-| 6/7/24   |  4:50    |  IM    | Create video walkthrough and documentation |             |
+| 6/7/24   |  4:50    |  IM    | Create video walkthrough and documentation |   1:24      |
 |          |          |        |                                            |             |
 
 _Note: Add more rows as needed._
@@ -125,7 +125,7 @@ This section should be filled out at the end of the Sprint and submitted.
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|      11:41        |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
 
